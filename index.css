@@ -1,5 +1,9 @@
 body{
     background-image: url(./assets/epcc-ohio.jpeg);
-    background-size: 780px;
+    background-repeat: no-repeat;
     
+}
+.yo{
+    background-color: red;
+
 }
